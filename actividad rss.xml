@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+        <title>Noticias de Tecnología</title>
+        <link>https://www.ejemplo.com/rss</link>
+        <description>Las noticias más relevantes del mundo tecnológico.</description>
+        <language>es</language>
+        <pubDate>Mon, 27 Jan 2025 09:00:00 +0000</pubDate>
+        <lastBuildDate>Mon, 27 Jan 2025 09:00:00 +0000</lastBuildDate>
+ 
+        <item>
+            <title>Recomendacion CEO de NVIDIA</title>
+            <link>https://www.mundodeportivo.com/urbantecno/tecnologia/el-ceo-de-nvidia-hace-una-recomendacion-a-todos-los-usuarios-deberian-contratar-una-ia-como-tutor-personal</link>
+            <description>El CEO de NVIDIA hace una recomendación a todos los usuarios: deberían contratar una IA como tutor personal.</description>
+            <pubDate>Mon, 27 Jan 2025 10:00:00 +0000</pubDate>
+            <category>Tecnología</category>
+            <guid>https://www.mundodeportivo.com/urbantecno/tecnologia/el-ceo-de-nvidia-hace-una-recomendacion-a-todos-los-usuarios-deberian-contratar-una-ia-como-tutor-personal</guid>
+        </item>
+ 
+        <item>
+            <title>¿Qué es DeepSeek, la IA china que preocupa a Estados Unidos?</title>
+            <link>https://www.vozdeamerica.com/a/deepseek-inteligencia-artificial-china-estados-unidos/7963402.com</link>
+            <description>El desarrollo de la plataforma DeepSeek en China ha generado preocupación en EEUU al posicionarse como una alternativa eficiente y asequible a ChatGPT, desatando una nueva competencia global en inteligencia artificial.</description>
+            <pubDate>Tue, 28 Jan 2025 08:30:00 +0000</pubDate>
+            <category>IA</category>
+            <guid>https://www.vozdeamerica.com/a/deepseek-inteligencia-artificial-china-estados-unidos/7963402.com</guid>
+        </item>
+
+        <item>
+            <title>El mercado cripto registra caídas a doble dígito por los aranceles de Trump</title>
+            <link>https://cincodias.elpais.com/criptoactivos/2025-02-03/el-mercado-cripto-registra-caidas-a-doble-digito-por-los-aranceles-de-trump.html</link>
+            <description>En la madrugada, bitcoin ha llegado a retroceder casi un 5% en las últimas 24 horas mientras ethereum y XRP se han hundido más de un 17%. Los temores por una mayor inflación, un frenazo en las bajadas de tipos y la aversión al riesgo provocan ventas masivas.</description>
+            <pubDate>Wed, 29 Jan 2025 08:30:00 +0000</pubDate>
+            <category>Criptomonedas</category>
+            <guid>https://cincodias.elpais.com/criptoactivos/2025-02-03/el-mercado-cripto-registra-caidas-a-doble-digito-por-los-aranceles-de-trump.html</guid>
+        </item>
+
+    </channel>
+</rss>
+
+
+ 
+ 
